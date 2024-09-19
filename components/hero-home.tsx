@@ -21,7 +21,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-Na Abelha Rainha, nosso compromisso vai além de oferecer produtos de alta qualidade para o cuidado com a sua pele e cabelo. Estamos sempre prontos para ouvir você e garantir que tenha a melhor experiência possível com nossos cosméticos.
+Na Abelha Rainha, nosso compromisso vai além de oferecer produtos de alta qualidade para o cuidado com a sua pele e cabelo.
               </p>
               <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay={400}>
