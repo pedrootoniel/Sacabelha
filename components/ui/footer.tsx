@@ -153,7 +153,7 @@ export default function Footer() {
           {/* 4th block */}
           <div className="space-y-2">
             <h3 className="text-sm font-medium text-gray-200">
-            Menu links rápidos
+            Serviço de Atendimento ao Cliente (SAC)
             </h3>
             <ul className="space-y-2 text-sm">
               <li>
@@ -161,7 +161,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Canais
+                 Informações sobre nossos cosméticos
                 </a>
               </li>
               <li>
@@ -169,7 +169,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Tutorials
+                  Acompanhamento de pedidos
                 </a>
               </li>
               <li>
@@ -177,7 +177,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Knowledge base
+                Troca e devoluções
                 </a>
               </li>
               <li>
@@ -185,7 +185,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Learn
+                  Dúvidas gerais sobre o site
                 </a>
               </li>
               <li>
@@ -193,7 +193,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Cookie manager
+                  Ouvidoria
                 </a>
               </li>
             </ul>

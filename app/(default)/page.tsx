@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Abelha Rainha - Canal de SAC/OUVIDORIA",
+  description: "Nosso SAC está aqui para atender suas dúvidas, sugestões e solicitações sobre nossos produtos e serviços. Estamos prontos para te ajudar",
 };
 
 import PageIllustration from "@/components/page-illustration";
